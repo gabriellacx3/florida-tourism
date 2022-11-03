@@ -37,7 +37,8 @@ video {
 }
 
 i:hover {
-  /* add your own hover effect */
+   background-color: white;
+  font-size: 30px;
 }
 
 .left {
@@ -74,6 +75,8 @@ width and height of the screen */
 
 #slide-1 {
   background: #A9FFF7;
+  padding: 10px;
+  margin; 50px;
 }
 
 #slide-2 {
