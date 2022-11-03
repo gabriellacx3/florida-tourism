@@ -91,16 +91,16 @@ width and height of the screen */
 }
 
 #slide-1 {
-  background: rgb(34,193,195);
-  background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);
+ background: rgb(99,198,240);
+background: linear-gradient(0deg, rgba(99,198,240,1) 0%, rgba(240,235,99,1) 47%, rgba(255,255,255,0.7721463585434174) 100%);
   padding: 50px;
   margin; 50px;
   font-size: 20px;
 }
 
 #slide-2 {
-background: rgb(34,193,195);
- background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);
+background: rgb(99,198,240);
+background: linear-gradient(0deg, rgba(99,198,240,1) 0%, rgba(240,235,99,1) 47%, rgba(255,255,255,0.7721463585434174) 100%);
 }
 
 #slide-3 {
