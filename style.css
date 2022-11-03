@@ -91,8 +91,8 @@ width and height of the screen */
 }
 
 #slide-1 {
- background: rgb(99,198,240);
-background: linear-gradient(0deg, rgba(99,198,240,1) 0%, rgba(240,235,99,1) 47%, rgba(255,255,255,0.7721463585434174) 100%);
+  background: rgb(99,198,240);
+background: linear-gradient(0deg, rgba(99,198,240,1) 0%, rgba(240,235,99,1) 47%, rgba(255,255,255,1) 100%);
   padding: 50px;
   margin; 50px;
   font-size: 20px;
@@ -100,12 +100,12 @@ background: linear-gradient(0deg, rgba(99,198,240,1) 0%, rgba(240,235,99,1) 47%,
 
 #slide-2 {
 background: rgb(99,198,240);
-background: linear-gradient(0deg, rgba(99,198,240,1) 0%, rgba(240,235,99,1) 47%, rgba(255,255,255,0.7721463585434174) 100%);
+background: linear-gradient(0deg, rgba(99,198,240,1) 0%, rgba(240,235,99,1) 47%, rgba(255,255,255,1) 100%);
 }
 
 #slide-3 {
-background: rgb(34,193,195);
-  background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);
+background: rgb(99,198,240);
+background: linear-gradient(0deg, rgba(99,198,240,1) 0%, rgba(240,235,99,1) 47%, rgba(255,255,255,1) 100%);
 }
 
 *:before,
@@ -117,8 +117,8 @@ background: rgb(34,193,195);
 
 body{
     height: 100vh;
-   background: rgb(29,99,253);
-background: linear-gradient(90deg, rgba(29,99,253,1) 0%, rgba(255,245,67,1) 53%, rgba(69,129,252,1) 100%);
+background: rgb(99,198,240);
+background: linear-gradient(90deg, rgba(99,198,240,1) 0%, rgba(255,245,67,1) 53%, rgba(99,198,240,1) 100%);
 }
 .container{
     width: 40%;
