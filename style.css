@@ -51,7 +51,7 @@ i:hover {
 
 h1 {
   background: #ECD444;
-  font-size: 30px;
+  font-size: 50px;
   padding: 10px;
   font-family: "Luckiest Guy", cursive;
   text-align: center;
@@ -99,13 +99,13 @@ width and height of the screen */
 }
 
 #slide-2 {
- background: rgb(255,253,245);
-background: linear-gradient(90deg, rgba(255,253,245,1) 0%, rgba(29,235,253,1) 50%, rgba(252,176,69,1) 100%);
+background: rgb(34,193,195);
+ background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);
 }
 
 #slide-3 {
-  background: rgb(195,62,34);
-background: linear-gradient(0deg, rgba(195,62,34,1) 0%, rgba(236,253,45,1) 100%);
+background: rgb(34,193,195);
+  background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);
 }
 
 *:before,
@@ -212,7 +212,6 @@ button{
     width:200px;
     height:70px;
     background: linear-gradient(to left top, #0C0504 50%, #0C0504 50%);
-    background-color: #4581fc;
     border-style: none;
     color:#FFF8DC;
     font-size: 12px;
