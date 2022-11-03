@@ -85,11 +85,13 @@ width and height of the screen */
 }
 
 #slide-2 {
-  background:#94FBAB;
+  background: rgb(255,253,245);
+  background: linear-gradient(90deg, rgba(255,253,245,1) 0%, rgba(39,253,29,1) 50%, rgba(252,176,69,1) 100%);
 }
 
 #slide-3 {
-  background:#B8E1FF;
+  background: rgb(195,62,34);
+background: linear-gradient(0deg, rgba(195,62,34,1) 0%, rgba(236,253,45,1) 100%);
 }
 
 *:before,
