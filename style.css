@@ -50,6 +50,9 @@ i:hover {
 }
 
 h1 {
+  background: #ECD444;
+  padding: 10px;
+  font-family: "Luckiest Guy", cursive;
   text-align: center;
 }
 
