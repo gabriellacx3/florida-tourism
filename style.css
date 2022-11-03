@@ -51,11 +51,25 @@ i:hover {
 
 h1 {
   background: #ECD444;
+  font-size: 30px;
   padding: 10px;
   font-family: "Luckiest Guy", cursive;
   text-align: center;
+  animation-duration: 2.5s;
+  animation-name: slidein;
 }
 
+@keyframes slidein {
+  from {
+    margin-left: 100%;
+    width: 300%
+  }
+
+  to {
+    margin-left: 0%;
+    width: 100%;
+  }
+}
 /* every element with this class takes up the full 
 width and height of the screen */
 .full-screen {
@@ -85,8 +99,8 @@ width and height of the screen */
 }
 
 #slide-2 {
-  background: rgb(255,253,245);
-  background: linear-gradient(90deg, rgba(255,253,245,1) 0%, rgba(39,253,29,1) 50%, rgba(252,176,69,1) 100%);
+ background: rgb(255,253,245);
+background: linear-gradient(90deg, rgba(255,253,245,1) 0%, rgba(29,235,253,1) 50%, rgba(252,176,69,1) 100%);
 }
 
 #slide-3 {
@@ -198,6 +212,7 @@ button{
     width:200px;
     height:70px;
     background: linear-gradient(to left top, #0C0504 50%, #0C0504 50%);
+    background-color: #4581fc;
     border-style: none;
     color:#FFF8DC;
     font-size: 12px;
