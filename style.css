@@ -38,8 +38,9 @@ video {
 }
 
 i:hover {
-   box-shadow: inset 100px 0 0 0 #63c6f0;
+   background: #63c6f0;
   font-size: 30px;
+  border-radius: 20px;
 }
 
 .left {
