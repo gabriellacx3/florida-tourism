@@ -45,3 +45,16 @@ document.querySelector('#push').onclick = function(){
     }
 }
        
+const toggleChecklist = () => {
+  let myChecklist = document.querySelector("#checklist");
+  myChecklist.classList.toggle("hidden");
+  
+  if (myChecklist.classList.contains("hidden")) {
+    toggleButton.innerHTML = "Open Checklist";
+  } else {
+    toggleButton.innerHTML = "Close Checklist";
+  }
+   
+  let toggleButton = document.querySelector("#toggle-checklist");
+  toggleButton.innerHTML = "Close Checklist";
+}
