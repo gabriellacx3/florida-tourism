@@ -274,7 +274,7 @@ h2 {
 }
 
 #checklist {
-  position: relative;
+  position: absolute;
   top:0;
   right:0;
   bottom:0;
