@@ -38,7 +38,7 @@ video {
 }
 
 i:hover {
-   background-color: #63c6f0;
+   box-shadow: inset 100px 0 0 0 #63c6f0;
   font-size: 30px;
 }
 
