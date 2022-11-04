@@ -145,7 +145,7 @@ button{
     overflow: hidden;
     transition: all .5s;
     box-shadow: 0px 1px 2px rgba(0,0,0,.2);
-   margin: 10px;
+   margin: 30px;
     padding; 10px;
  
 }
@@ -279,7 +279,7 @@ h2 {
   bottom:0;
   width:200px;
   padding: 25px;
-  background: blue;
+  background: #f0eb63;
 }
 
 .hidden-checklist {
