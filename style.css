@@ -13,7 +13,7 @@ html {
 /* adjust typography defaults */
 body {
   margin: 0;
-  font-family: 'Vidaloka', serif;
+  font-family: monospace;
   font-size: 20px;
 }
 
