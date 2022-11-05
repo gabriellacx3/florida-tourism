@@ -40,15 +40,15 @@ video {
 i:hover {
    background: #ffffff;
   font-size: 30px;
-  border-radius: 15px;
+  border-radius: 22px;
 }
 
 .left {
-  left: 10px
+  left: 10px;
 }
 
 .right {
-  right: 10px
+  right: 10px;
 }
 
 h1 {
