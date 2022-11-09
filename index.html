@@ -17,9 +17,9 @@
     <link rel="stylesheet" href="style.css" />
     
      <!-- import html2canvas library to our tourist website -->
-    <script src="https://html2canvas.hertzen.com/dist/html2canvas.min.js"></script>
+    <script src="https://html2canvas.hertzen.com/dist/html2canvas.min.js" defer ></script>
     
-    <script src="script.js"></script>
+    <script src="script.js" defer></script>
     
     <!-- links for New Google Font -->
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -36,7 +36,7 @@
         Checklist of Places
       </button>
       
-      <button id="downloadPNG" onclick="downloadChecklist()">
+      <button class="downloadButton" onclick="downloadChecklist()">
         Download Tourism Checklist
       </button>
       
