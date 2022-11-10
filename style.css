@@ -40,7 +40,7 @@ video {
 i:hover {
    background: #ffffff;
   font-size: 30px;
-  border-radius: 30px;
+  border-radius: 80px;
 }
 
 .left {
@@ -96,7 +96,7 @@ width and height of the screen */
   background: rgb(99,198,240);
 background: linear-gradient(0deg, rgba(99,198,240,1) 0%, rgba(240,235,99,1) 47%, rgba(255,255,255,1) 100%);
   padding: 10px;
-  margin: 15px;
+  margin: 10px;
   font-size: 20px;
 }
 
@@ -104,20 +104,20 @@ background: linear-gradient(0deg, rgba(99,198,240,1) 0%, rgba(240,235,99,1) 47%,
 background: rgb(99,198,240);
 background: linear-gradient(0deg, rgba(99,198,240,1) 0%, rgba(240,235,99,1) 47%, rgba(255,255,255,1) 100%);
  padding: 10px;
-  margin: 15px;
+  margin: 10px;
 }
 
 #slide-3 {
 background: rgb(99,198,240);
 background: linear-gradient(0deg, rgba(99,198,240,1) 0%, rgba(240,235,99,1) 47%, rgba(255,255,255,1) 100%);
   padding: 10px;
-  margin: 15px;
+  margin: 10px;
 }
 
 #slide-4 {
 background: rgb(99,198,240);
 background: linear-gradient(0deg, rgba(99,198,240,1) 0%, rgba(240,235,99,1) 47%, rgba(255,255,255,1) 100%);
-  margin: 15px;
+  margin: 10px;
   padding: 10px;
 }
 
@@ -125,7 +125,7 @@ background: linear-gradient(0deg, rgba(99,198,240,1) 0%, rgba(240,235,99,1) 47%,
 background: rgb(99,198,240);
 background: linear-gradient(0deg, rgba(99,198,240,1) 0%, rgba(240,235,99,1) 47%, rgba(255,255,255,1) 100%);
   padding: 10px;
-  margin: 15px;
+  margin: 10px;
 }
 
 body{
