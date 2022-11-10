@@ -40,7 +40,7 @@ video {
 i:hover {
    background: #ffffff;
   font-size: 30px;
-  border-radius: 200px;
+  border-radius: 10px;
 }
 
 .left {
