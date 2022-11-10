@@ -284,7 +284,7 @@ h2 {
 }
 
 #checklist {
-  position: relative;
+  position: absolute;
   top:0;
   right:0;
   left:0;
@@ -296,6 +296,6 @@ h2 {
 
 .hidden-checklist {
   width: 0px;
-  overflow: visible;
+  overflow: hidden;
   padding: 0;
 }
